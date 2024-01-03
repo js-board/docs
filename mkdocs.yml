@@ -1,8 +1,8 @@
 site_name: JS-Board
 theme:
   name: material
-  favicon: docs.png
-  logo: docs.png
+  favicon: jsb-24.png
+  logo: jsb-24.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -33,6 +33,8 @@ extra_css:
 
 nav:
   - index.md
+  - "Quick Start":
+    - quick-start/index.md
 
 
 

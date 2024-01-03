@@ -30,7 +30,7 @@ The code on the web page uses the WebSerial API to let you choose the serial por
 your ESP32 is attached.
 It then erases the flash and proceeds to program the device with the JS-Board firmware.
 It uses the same protocol as the command-line
-[https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html](esptool.py) utility.
+[esptool.py](https://docs.espressif.com/projects/esptool/en/latest/esp32/installation.html) utility.
 
 If you are having difficulties with the web flashing, you can also install esptool.py.
 Under linux your package manager most likely has a package for it and that would be the
